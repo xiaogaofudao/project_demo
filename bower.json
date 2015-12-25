@@ -1,0 +1,20 @@
+{
+  "name": "appdemo",
+  "description": "a simple gulp+browserify demo",
+  "main": "app.js",
+  "authors": [
+    "xiaogaofudao"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

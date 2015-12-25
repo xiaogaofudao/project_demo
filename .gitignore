@@ -1,0 +1,8 @@
+*.swp
+*副本.*
+/node_modules
+/public
+/assets/bower_components
+npm-debug.log
+.DS_Store
+/.sass-cache

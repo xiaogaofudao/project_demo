@@ -1,0 +1,5 @@
+@import "./helper/vars";
+body {
+	background-color: $whiteColor;
+	transition :transform 1s;
+}

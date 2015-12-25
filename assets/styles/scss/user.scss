@@ -1,0 +1,8 @@
+@import "./helper/vars";
+body {
+	background-color: $grayColor;
+	-webkit-border-radius : 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	user-select:none;
+}
